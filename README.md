@@ -1,6 +1,6 @@
 <!-- Greeting -->
 <h1 align="center">Hi there 👋, I'm Nahid Jawad Angon</h1>
-<h3 align="center">Full-Stack Odoo Developer | Python Expert | SaaS Engineer | Tech Enthusiast</h3>
+<h3 align="center">Full-Stack Odoo Developer | Python Expert | Software Engineer | Tech Enthusiast</h3>
 
 <!-- Typing SVG Animation -->
 <p align="center">
