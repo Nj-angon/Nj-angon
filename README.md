@@ -65,10 +65,12 @@
 <ul>
   <li>✅ Leadership Skills for the 21st Century</li>
   <li>✅ Employability Skills</li>
+  <li>✅ Certified Python 3: Programming beginner to advanced</li>
   <li>✅ Web Design & Development – UY Lab</li>
 </ul>
 
-<hr/>
+<hr/>Python 3: Programming beginner to advanced
+
 
 <!-- Languages -->
 <h2>🌐 Languages</h2>
