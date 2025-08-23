@@ -17,7 +17,7 @@
 <ul>
   <li>🎓 <strong>B.Sc. in Computing and Information Systems</strong>, Daffodil International University</li>
   <li>💼 Currently working as a <strong>Software Developer</strong> at <em>Daffodil Computers Limited</em></li>
-  <li>🛠️ 2+ years of experience in <strong>Odoo ERP Development, API Integration, and SaaS Deployment</strong></li>
+  <li>🛠️ 3+ years of experience in <strong>Odoo ERP Development, API Integration, and SaaS Deployment</strong></li>
   <li>🧠 Passionate about <strong>building scalable systems, solving real-world problems</strong>, and delivering business value</li>
   <li>🚀 Skilled in <strong>Python, JavaScript, Odoo, Django, PostgreSQL, Docker</strong> and more</li>
   <li>🤝 Committed to continuous learning and collaboration</li>
